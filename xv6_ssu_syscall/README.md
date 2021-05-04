@@ -50,4 +50,5 @@
 ``` ctrl+a, x ```
 
 
+![image](https://user-images.githubusercontent.com/62228195/116965697-59453f80-ace9-11eb-9471-40f72f9eaa96.png)
 
