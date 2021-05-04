@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/62228195/116965935-03bd6280-acea-11eb-9f5a-efedff206df3.png)
 
+
+
 # Setnice / Getnice
 
 ### A system call that sets/gets a priority of process by using nice value(0~10)
