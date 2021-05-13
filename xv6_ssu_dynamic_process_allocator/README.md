@@ -4,6 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/62228195/118091722-1cbec580-b406-11eb-9fac-0fb63879fb68.png)
 
+![image](https://user-images.githubusercontent.com/62228195/118093519-83dd7980-b408-11eb-8954-b0c22a5a5d54.png)
+
+</br>
 
 ## Modify proc.c
 ### Allocate
@@ -19,6 +22,7 @@
 - ps
 - We will test with ps(system call)
 
+</br>
 
 ## Ps
 
