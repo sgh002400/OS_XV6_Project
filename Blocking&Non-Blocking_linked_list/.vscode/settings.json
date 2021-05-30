@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "linkedlist.h": "c",
+        "common.h": "c"
+    }
+}
